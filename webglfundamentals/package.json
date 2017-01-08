@@ -1,0 +1,6 @@
+{
+  "name": "webgl-practice",
+  "dependencies": {
+    "browserify-shader": "latest"
+  }
+}
